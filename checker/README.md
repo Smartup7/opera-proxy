@@ -35,7 +35,7 @@ chmod +x opera-proxy.linux-arm64
 3. Запустите чекер:
 
 ```bash
-./opera-proxy-checker.linux-arm64 -binary ./opera-proxy.linux-arm64 -test-url http://httpbin.org/ip -interval 5m -web-port 8080
+./opera-proxy-checker.linux-arm64 -binary ./opt/usr/bin/opera-proxy -test-url http://httpbin.org/ip -interval 5m -web-port 8080
 ```
 
 ### Параметры запуска
