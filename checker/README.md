@@ -21,7 +21,7 @@
 1. Скачайте предварительно собранный бинарный файл для ARM64:
 
 ```bash
-wget https://github.com/yourusername/opera-proxy-checker/releases/download/v1.0/opera-proxy-checker.linux-arm64
+wget https://github.com/Smartup7/opera-proxy-checker/releases/download/v1.0/opera-proxy-checker.linux-arm64
 chmod +x opera-proxy-checker.linux-arm64
 ```
 
